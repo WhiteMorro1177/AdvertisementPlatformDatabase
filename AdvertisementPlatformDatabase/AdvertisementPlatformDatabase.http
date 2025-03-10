@@ -1,0 +1,6 @@
+@AdvertisementPlatformDatabase_HostAddress = http://localhost:5239
+
+GET {{AdvertisementPlatformDatabase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
